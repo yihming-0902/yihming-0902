@@ -1,11 +1,9 @@
-
-<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Ng Yih Ming</h1>
 
 <h3 align="center">Computer Networks & Security Student | UTM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Technology+Enthusiast;Future+Cyber+Security+Professional;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Technology+Enthusiast;Future+Cyber+Security+Professional;Always+Learning+Something+New!" />
 </p>
 
 <p align="center">
@@ -15,7 +13,6 @@
 
 ---
 
-<!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
 Hello! I'm **Ng Yih Ming**, from Skudai, Johor, Malaysia.
@@ -32,7 +29,6 @@ I enjoy exploring technology, learning new things and improving my skills. I'm a
 
 ---
 
-<!-- SKILLS -->
 ## 🛠️ Skills & Strengths
 
 <p>
@@ -44,7 +40,6 @@ I enjoy exploring technology, learning new things and improving my skills. I'm a
 
 ---
 
-<!-- INTERESTS -->
 ## 🎮 My Interests
 
 | Interest | Description |
@@ -57,7 +52,6 @@ I enjoy exploring technology, learning new things and improving my skills. I'm a
 
 ---
 
-<!-- GOALS -->
 ## 🚀 Future Goals
 
 My goal is to build a career in **Cyber Security**.
@@ -72,26 +66,6 @@ I hope to:
 
 ---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yihming-0902&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihming-0902&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yihming-0902/yihming-0902/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
-<!-- CONNECT -->
 ## 🤝 Connect With Me
 
 <p align="center">
