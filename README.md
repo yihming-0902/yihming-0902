@@ -1,117 +1,202 @@
 
-<h1 align="center">Hi 👋, I'm Ng Yih Ming</h1>
+<!-- ===================================== -->
+<!--             HEADER                    -->
+<!-- ===================================== -->
 
-<h3 align="center">Computer Networks & Security Student | UTM</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Technology+Enthusiast;Future+Cyber+Security+Professional;Always+Learning+Something+New!" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:075985,100:0ea5e9&text=NG%20YIH%20MING&fontColor=ffffff&fontSize=55&fontAlignY=45&animation=fadeIn&desc=Computer%20Networks%20%26%20Security%20Student&descAlignY=65&descSize=18" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/University-UTM-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Programme-Computer%20Networks%20%26%20Security-0ea5e9?style=for-the-badge" />
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Computer+Networks+%26+Security+Student;Technology+Enthusiast;Exploring+the+World+of+Cyber+Security;Always+Learning.+Always+Growing." />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yihming-0902&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
+
+<!-- ===================================== -->
+<!--             ABOUT ME                  -->
+<!-- ===================================== -->
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Ng Yih Ming**, from Skudai, Johor, Malaysia.
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm currently studying at **Universiti Teknologi Malaysia (UTM)**, pursuing Computer Networks & Security.
+Hi! I'm **Ng Yih Ming**, a Computer Networks & Security student at **Universiti Teknologi Malaysia (UTM)**.
 
-I enjoy exploring technology, learning new things and improving my skills. I'm always looking forward to gaining new knowledge and experiences throughout my university journey.
+I'm passionate about technology and interested in understanding how computer systems, networks and security work.
 
-- 🎓 University: Universiti Teknologi Malaysia (UTM)
+Currently, I'm focusing on building my technical knowledge, improving my programming skills and exploring new areas in computing.
+
+- 🎓 University: Universiti Teknologi Malaysia
 - 💻 Programme: Computer Networks & Security
 - 📍 Location: Skudai, Johor, Malaysia
-- 🎯 Career Goal: Cyber Security
-- 🌱 Currently learning: Programming, Computer Networks and Technology
+- 🔐 Career Interest: Cyber Security
+- 🌱 Currently learning: Programming & Computer Networks
+- 🎯 Goal: Continuously develop my technical skills
+
+<br clear="right"/>
 
 ---
+
+<!-- ===================================== -->
+<!--             TECHNICAL SKILLS          -->
+<!-- ===================================== -->
 
 ## 🛠️ Skills & Strengths
 
+### Personal Skills
+
 <p>
-  <img src="https://img.shields.io/badge/Problem%20Solving-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Teamwork-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Programming-Learning-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Technology-Exploration-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/Problem%20Solving-0F172A?style=for-the-badge&logo=target&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Teamwork-0F172A?style=for-the-badge&logo=teams&logoColor=38BDF8" />
+</p>
+
+### Technology Interests
+
+<p>
+<img src="https://img.shields.io/badge/Computer%20Networks-0F172A?style=for-the-badge&logo=cisco&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Cyber%20Security-0F172A?style=for-the-badge&logo=kalilinux&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Programming-0F172A?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" />
 </p>
 
 ---
 
-## 🎮 My Interests
+<!-- ===================================== -->
+<!--             EDUCATION                 -->
+<!-- ===================================== -->
 
-| Interest | Description |
-|:---|:---|
-| 🎌 Anime | Watching anime |
-| 🎮 Gaming | Playing video games |
-| 💻 Technology | Exploring new technology |
-| 🏀 Basketball | Enjoying basketball |
-| 🦁 Lion Dance | Interested in lion dance and its culture |
+## 🎓 Education
+
+<table>
+<tr>
+<td width="80">
+
+<img src="https://img.shields.io/badge/UTM-0072BC?style=for-the-badge" />
+
+</td>
+<td>
+
+**Universiti Teknologi Malaysia (UTM)**
+
+Computer Networks & Security
+
+Johor, Malaysia
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Future Goals
+<!-- ===================================== -->
+<!--             INTERESTS                 -->
+<!-- ===================================== -->
 
-My goal is to build a career in **Cyber Security**.
+## 🎮 Beyond Technology
 
-I hope to:
-
-- Improve my programming skills.
-- Gain knowledge in computer networks.
-- Learn more about information security.
-- Develop practical technical experience.
-- Become a better problem solver.
+<table>
+<tr>
+<td align="center" width="20%">
+<h2>🎌</h2>
+<b>Anime</b>
+</td>
+<td align="center" width="20%">
+<h2>🎮</h2>
+<b>Gaming</b>
+</td>
+<td align="center" width="20%">
+<h2>💻</h2>
+<b>Technology</b>
+</td>
+<td align="center" width="20%">
+<h2>🏀</h2>
+<b>Basketball</b>
+</td>
+<td align="center" width="20%">
+<h2>🦁</h2>
+<b>Lion Dance</b>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Projects
+<!-- ===================================== -->
+<!--             PROJECTS                  -->
+<!-- ===================================== -->
+
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yihming-0902?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<i>Some of my academic projects and personal learning experiences.</i>
 </p>
 
-<p align="center">
-  <i>Here are some of my projects and learning experiences.</i>
-</p>
+<div align="center">
 
-<!-- Replace the links below with your actual project repositories -->
+<a href="https://github.com/yihming-0902?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/yihming-0902">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yihming-0902&repo=REPLACE_WITH_PROJECT_NAME&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+</div>
+
+<!-- Add actual project cards after uploading your projects -->
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ===================================== -->
+<!--             GITHUB STATS              -->
+<!-- ===================================== -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yihming-0902&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihming-0902&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yihming-0902&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihming-0902&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
+
+</div>
 
 ---
+
+<!-- ===================================== -->
+<!--             FUTURE GOALS              -->
+<!-- ===================================== -->
+
+## 🎯 Future Goals
+
+- Strengthen my programming fundamentals.
+- Develop a deeper understanding of computer networks.
+- Explore Cyber Security and information security.
+- Gain practical experience through academic and personal projects.
+- Continue learning and improving as a technology enthusiast.
+
+---
+
+<!-- ===================================== -->
+<!--             CONNECT                   -->
+<!-- ===================================== -->
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/yihming-0902">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Keep learning, keep improving, and never stop exploring."</i>
-</p>
+<a href="https://github.com/yihming-0902">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<h3 align="center">Thanks for visiting my profile! 👋</h3>
+<br/><br/>
 
-<p align="center">
-  © 2026 Ng Yih Ming
-</p>
+<i>"Consistency is the key to growth. Keep learning, keep building."</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=100&section=footer" width="100%" />
+
+</div>
