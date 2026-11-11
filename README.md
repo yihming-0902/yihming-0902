@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ng Yih Ming</h1>
 
 <h3 align="center">Computer Networks & Security Student | UTM</h3>
@@ -63,6 +64,37 @@ I hope to:
 - Learn more about information security.
 - Develop practical technical experience.
 - Become a better problem solver.
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/yihming-0902?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Here are some of my projects and learning experiences.</i>
+</p>
+
+<!-- Replace the links below with your actual project repositories -->
+
+<p align="center">
+  <a href="https://github.com/yihming-0902">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yihming-0902&repo=REPLACE_WITH_PROJECT_NAME&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yihming-0902&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihming-0902&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
