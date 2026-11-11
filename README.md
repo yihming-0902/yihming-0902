@@ -1,6 +1,6 @@
 
 <!-- ===================================== -->
-<!--             HEADER                    -->
+<!-- HEADER -->
 <!-- ===================================== -->
 
 <div align="center">
@@ -13,19 +13,15 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yihming-0902&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-
 </div>
 
 ---
 
 <!-- ===================================== -->
-<!--             ABOUT ME                  -->
+<!-- ABOUT ME -->
 <!-- ===================================== -->
 
 ## 👨‍💻 About Me
-
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Hi! I'm **Ng Yih Ming**, a Computer Networks & Security student at **Universiti Teknologi Malaysia (UTM)**.
 
@@ -40,12 +36,10 @@ Currently, I'm focusing on building my technical knowledge, improving my program
 - 🌱 Currently learning: Programming & Computer Networks
 - 🎯 Goal: Continuously develop my technical skills
 
-<br clear="right"/>
-
 ---
 
 <!-- ===================================== -->
-<!--             TECHNICAL SKILLS          -->
+<!-- SKILLS -->
 <!-- ===================================== -->
 
 ## 🛠️ Skills & Strengths
@@ -68,14 +62,14 @@ Currently, I'm focusing on building my technical knowledge, improving my program
 ---
 
 <!-- ===================================== -->
-<!--             EDUCATION                 -->
+<!-- EDUCATION -->
 <!-- ===================================== -->
 
 ## 🎓 Education
 
 <table>
 <tr>
-<td width="80">
+<td width="100">
 
 <img src="https://img.shields.io/badge/UTM-0072BC?style=for-the-badge" />
 
@@ -95,7 +89,7 @@ Johor, Malaysia
 ---
 
 <!-- ===================================== -->
-<!--             INTERESTS                 -->
+<!-- INTERESTS -->
 <!-- ===================================== -->
 
 ## 🎮 Beyond Technology
@@ -128,7 +122,7 @@ Johor, Malaysia
 ---
 
 <!-- ===================================== -->
-<!--             PROJECTS                  -->
+<!-- PROJECTS -->
 <!-- ===================================== -->
 
 ## 🚀 Featured Projects
@@ -140,17 +134,17 @@ Johor, Malaysia
 <div align="center">
 
 <a href="https://github.com/yihming-0902?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<!-- Add actual project cards after uploading your projects -->
+<!-- Add your actual project repository cards here -->
 
 ---
 
 <!-- ===================================== -->
-<!--             GITHUB STATS              -->
+<!-- GITHUB STATISTICS -->
 <!-- ===================================== -->
 
 ## 📊 GitHub Analytics
@@ -166,7 +160,7 @@ Johor, Malaysia
 ---
 
 <!-- ===================================== -->
-<!--             FUTURE GOALS              -->
+<!-- FUTURE GOALS -->
 <!-- ===================================== -->
 
 ## 🎯 Future Goals
@@ -180,7 +174,7 @@ Johor, Malaysia
 ---
 
 <!-- ===================================== -->
-<!--             CONNECT                   -->
+<!-- CONNECT -->
 <!-- ===================================== -->
 
 ## 🤝 Connect With Me
@@ -196,6 +190,14 @@ Johor, Malaysia
 <i>"Consistency is the key to growth. Keep learning, keep building."</i>
 
 <br/><br/>
+
+<h3>Thanks for visiting my profile! 👋</h3>
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=100&section=footer" width="100%" />
 
