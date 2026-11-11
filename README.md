@@ -1,55 +1,110 @@
 
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Ng Yih Ming</h1>
 
-<h3 align="center">Computer Networks & Security Student at UTM</h3>
+<h3 align="center">Computer Networks & Security Student | UTM</h3>
 
 <p align="center">
-  <i>Exploring Technology | Learning Every Day | Building My Future</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Technology+Enthusiast;Future+Cyber+Security+Professional;Always+Learning+Something+New!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/University-UTM-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Programme-Computer%20Networks%20%26%20Security-0ea5e9?style=for-the-badge" />
 </p>
 
 ---
 
+<!-- ABOUT ME -->
 ## 👨‍💻 About Me
 
-Hi! I'm **Ng Yih Ming**, a university student from Skudai, Johor, Malaysia.
+Hello! I'm **Ng Yih Ming**, from Skudai, Johor, Malaysia.
 
-- 🎓 Studying at Universiti Teknologi Malaysia (UTM)
+I'm currently studying at **Universiti Teknologi Malaysia (UTM)**, pursuing Computer Networks & Security.
+
+I enjoy exploring technology, learning new things and improving my skills. I'm always looking forward to gaining new knowledge and experiences throughout my university journey.
+
+- 🎓 University: Universiti Teknologi Malaysia (UTM)
 - 💻 Programme: Computer Networks & Security
-- 🌱 Currently learning about computer science and networking
-- 🎯 Future Goal: Build a career in Cyber Security
-- 🤝 Interested in teamwork and problem solving
-
-## 🛠️ Skills
-
-- Problem Solving
-- Teamwork
-- Basic Programming Knowledge
-- Technology Exploration
-
-## 🎮 Interests
-
-- 🎌 Anime
-- 🎮 Gaming
-- 💻 Technology
-- 🏀 Basketball
-- 🦁 Lion Dance
-
-
-## 🎯 My Goal
-
-I aim to continuously improve my technical knowledge,
-develop my programming and networking skills, and
-gain practical experience in the field of Cyber Security.
-
-## 📫 Connect With Me
-
-- GitHub: [@yihming-0902](https://github.com/yihming-0902)
+- 📍 Location: Skudai, Johor, Malaysia
+- 🎯 Career Goal: Cyber Security
+- 🌱 Currently learning: Programming, Computer Networks and Technology
 
 ---
+
+<!-- SKILLS -->
+## 🛠️ Skills & Strengths
+
+<p>
+  <img src="https://img.shields.io/badge/Problem%20Solving-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Teamwork-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Programming-Learning-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Technology-Exploration-blueviolet?style=flat-square" />
+</p>
+
+---
+
+<!-- INTERESTS -->
+## 🎮 My Interests
+
+| Interest | Description |
+|:---|:---|
+| 🎌 Anime | Watching anime |
+| 🎮 Gaming | Playing video games |
+| 💻 Technology | Exploring new technology |
+| 🏀 Basketball | Enjoying basketball |
+| 🦁 Lion Dance | Interested in lion dance and its culture |
+
+---
+
+<!-- GOALS -->
+## 🚀 Future Goals
+
+My goal is to build a career in **Cyber Security**.
+
+I hope to:
+
+- Improve my programming skills.
+- Gain knowledge in computer networks.
+- Learn more about information security.
+- Develop practical technical experience.
+- Become a better problem solver.
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yihming-0902&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yihming-0902&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yihming-0902/yihming-0902/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+<!-- CONNECT -->
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/yihming-0902">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <i>"Keep learning, keep improving, and never stop exploring."</i>
 </p>
+
+<h3 align="center">Thanks for visiting my profile! 👋</h3>
 
 <p align="center">
   © 2026 Ng Yih Ming
