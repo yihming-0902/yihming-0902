@@ -32,6 +32,8 @@ Hi! I'm **Ng Yih Ming**, a university student from Skudai, Johor, Malaysia.
 - 🎮 Gaming
 - 💻 Technology
 - 🏀 Basketball
+- 🦁 Lion Dance
+
 
 ## 🎯 My Goal
 
