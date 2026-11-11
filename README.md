@@ -1,82 +1,85 @@
 
-<!-- ===================================== -->
-<!-- HEADER -->
-<!-- ===================================== -->
+<!-- ======================================== -->
+<!--              INTRODUCTION                -->
+<!-- ======================================== -->
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ng Yih Ming</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:075985,100:0ea5e9&text=NG%20YIH%20MING&fontColor=ffffff&fontSize=55&fontAlignY=45&animation=fadeIn&desc=Computer%20Networks%20%26%20Security%20Student&descAlignY=65&descSize=18" width="100%" />
+<h3 align="center">Computer Networks & Security Student | UTM</h3>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Computer+Networks+%26+Security+Student;Technology+Enthusiast;Exploring+the+World+of+Cyber+Security;Always+Learning.+Always+Growing." alt="Typing Animation" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Computer+Networks+%26+Security+Student;Technology+Enthusiast;Exploring+the+World+of+Cyber+Security;Always+Learning.+Always+Growing." />
-
-<br/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/UTM-Universiti%20Teknologi%20Malaysia-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Networks%20%26%20Security-Student-0ea5e9?style=for-the-badge" />
+</p>
 
 ---
 
-<!-- ===================================== -->
-<!-- ABOUT ME -->
-<!-- ===================================== -->
+<!-- ======================================== -->
+<!--                 ABOUT ME                 -->
+<!-- ======================================== -->
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Ng Yih Ming**, a Computer Networks & Security student at **Universiti Teknologi Malaysia (UTM)**.
+Hello! I'm **Ng Yih Ming**, from Skudai, Johor, Malaysia.
+
+I'm currently studying at **Universiti Teknologi Malaysia (UTM)**, pursuing Computer Networks & Security.
 
 I'm passionate about technology and interested in understanding how computer systems, networks and security work.
 
-Currently, I'm focusing on building my technical knowledge, improving my programming skills and exploring new areas in computing.
+I enjoy learning new things, solving problems and improving my technical knowledge throughout my university journey.
 
 - 🎓 University: Universiti Teknologi Malaysia
 - 💻 Programme: Computer Networks & Security
 - 📍 Location: Skudai, Johor, Malaysia
 - 🔐 Career Interest: Cyber Security
-- 🌱 Currently learning: Programming & Computer Networks
-- 🎯 Goal: Continuously develop my technical skills
+- 🌱 Currently Learning: Programming & Computer Networks
+- 🎯 Goal: Continuously improve my technical skills
 
 ---
 
-<!-- ===================================== -->
-<!-- SKILLS -->
-<!-- ===================================== -->
+<!-- ======================================== -->
+<!--                  SKILLS                  -->
+<!-- ======================================== -->
 
 ## 🛠️ Skills & Strengths
 
 ### Personal Skills
 
-<p>
-<img src="https://img.shields.io/badge/Problem%20Solving-0F172A?style=for-the-badge&logo=target&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Teamwork-0F172A?style=for-the-badge&logo=teams&logoColor=38BDF8" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem%20Solving-0F172A?style=for-the-badge&logo=target&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Teamwork-0F172A?style=for-the-badge&logo=teams&logoColor=38BDF8" />
 </p>
 
 ### Technology Interests
 
-<p>
-<img src="https://img.shields.io/badge/Computer%20Networks-0F172A?style=for-the-badge&logo=cisco&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Cyber%20Security-0F172A?style=for-the-badge&logo=kalilinux&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Programming-0F172A?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Computer%20Networks-0F172A?style=for-the-badge&logo=cisco&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Cyber%20Security-0F172A?style=for-the-badge&logo=kalilinux&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Programming-0F172A?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" />
 </p>
 
 ---
 
-<!-- ===================================== -->
-<!-- EDUCATION -->
-<!-- ===================================== -->
+<!-- ======================================== -->
+<!--                EDUCATION                 -->
+<!-- ======================================== -->
 
 ## 🎓 Education
 
 <table>
 <tr>
-<td width="100">
-
-<img src="https://img.shields.io/badge/UTM-0072BC?style=for-the-badge" />
-
+<td width="100" align="center">
+  <h2>🎓</h2>
 </td>
 <td>
 
 **Universiti Teknologi Malaysia (UTM)**
+
+Bachelor's Degree Programme
 
 Computer Networks & Security
 
@@ -88,53 +91,71 @@ Johor, Malaysia
 
 ---
 
-<!-- ===================================== -->
-<!-- INTERESTS -->
-<!-- ===================================== -->
+<!-- ======================================== -->
+<!--                 INTERESTS                -->
+<!-- ======================================== -->
 
 ## 🎮 Beyond Technology
 
 <table>
 <tr>
 <td align="center" width="20%">
-<h2>🎌</h2>
-<b>Anime</b>
+  <h2>🎌</h2>
+  <b>Anime</b>
 </td>
 <td align="center" width="20%">
-<h2>🎮</h2>
-<b>Gaming</b>
+  <h2>🎮</h2>
+  <b>Gaming</b>
 </td>
 <td align="center" width="20%">
-<h2>💻</h2>
-<b>Technology</b>
+  <h2>💻</h2>
+  <b>Technology</b>
 </td>
 <td align="center" width="20%">
-<h2>🏀</h2>
-<b>Basketball</b>
+  <h2>🏀</h2>
+  <b>Basketball</b>
 </td>
 <td align="center" width="20%">
-<h2>🦁</h2>
-<b>Lion Dance</b>
+  <h2>🦁</h2>
+  <b>Lion Dance</b>
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- ===================================== -->
-<!-- PROJECTS -->
-<!-- ===================================== -->
+<!-- ======================================== -->
+<!--               FUTURE GOALS               -->
+<!-- ======================================== -->
+
+## 🎯 Future Goals
+
+My goal is to build a career in **Cyber Security**.
+
+I hope to:
+
+- Strengthen my programming fundamentals.
+- Develop a deeper understanding of computer networks.
+- Explore Cyber Security and information security.
+- Gain practical experience through academic and personal projects.
+- Continue learning and improving as a technology enthusiast.
+
+---
+
+<!-- ======================================== -->
+<!--             FEATURED PROJECTS            -->
+<!-- ======================================== -->
 
 ## 🚀 Featured Projects
 
 <p align="center">
-<i>Some of my academic projects and personal learning experiences.</i>
+  <i>My academic projects and personal learning experiences.</i>
 </p>
 
 <div align="center">
 
 <a href="https://github.com/yihming-0902?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -143,9 +164,9 @@ Johor, Malaysia
 
 ---
 
-<!-- ===================================== -->
-<!-- GITHUB STATISTICS -->
-<!-- ===================================== -->
+<!-- ======================================== -->
+<!--              GITHUB STATS                -->
+<!-- ======================================== -->
 
 ## 📊 GitHub Analytics
 
@@ -159,30 +180,16 @@ Johor, Malaysia
 
 ---
 
-<!-- ===================================== -->
-<!-- FUTURE GOALS -->
-<!-- ===================================== -->
-
-## 🎯 Future Goals
-
-- Strengthen my programming fundamentals.
-- Develop a deeper understanding of computer networks.
-- Explore Cyber Security and information security.
-- Gain practical experience through academic and personal projects.
-- Continue learning and improving as a technology enthusiast.
-
----
-
-<!-- ===================================== -->
-<!-- CONNECT -->
-<!-- ===================================== -->
+<!-- ======================================== -->
+<!--                 CONTACT                  -->
+<!-- ======================================== -->
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/yihming-0902">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -197,8 +204,6 @@ Johor, Malaysia
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=100&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <i>© 2026 Ng Yih Ming | Personal GitHub Portfolio</i>
+</p>
